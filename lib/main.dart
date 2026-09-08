@@ -25,7 +25,7 @@ class DragonBallIncrementalApp extends StatelessWidget {
           secondary: Color(0xFF00B0FF),
           surface: Color(0xFF1B2230),
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: const Color(0xFF1B2230),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(12),
